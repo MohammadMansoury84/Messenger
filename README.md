@@ -10,9 +10,6 @@ implementing socket-based communication, multi-client handling,
 and interactive chat features.
 </p>
 
-<p align="center">
-<img src="screenshots/banner.png" width="800">
-</p>
 
 
 <h2>🚀 About The Project</h2>
